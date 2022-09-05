@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando na Minu [(@minutrade)](https://github.com/Minutrade)
 
-- 👨‍💻 Alguns projetos (POC's e estudos) estão disponíveis aqui [https://github.com/tiagocarmo?tab=repositories](https://github.com/tiagocarmo?tab=repositories)
+- 👨‍💻 Alguns projetos (POC's e estudos) estão disponíveis aqui [https://github.com/elvis-araujo?tab=repositories](https://github.com/elvis-araujo?tab=repositories)
 
 - ⚡ Fun fact *Comecei com PHP em 2018 🤪*
 
